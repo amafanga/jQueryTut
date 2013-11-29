@@ -1,0 +1,3 @@
+mongod --replSet mongozin --dbpath BINGO --port 27004 --oplogSize 50 --l
+
+ nohup python agent.py >> H:\Isibindi\VGz\Mongo\bin\1/agent.log 2>&1 &

@@ -1,0 +1,3 @@
+vm-nvit-crm: 172.16.6.29
+vm-nvit-sql: 172.16.6.28
+vm-nvit-web: 172.16.6.47

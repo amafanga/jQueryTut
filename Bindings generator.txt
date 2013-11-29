@@ -1,0 +1,1 @@
+crmsvcutil.exe /url:http://vm-med-crm:5555/MEDEMASS/XRMServices/2011/Organization.svc /out:C:\Projects\MAFANGA\Med-e-Mass\Development\Medemass\Bindings\Xrm.cs /namespace:Medemass /serviceContextName:XrmServiceContext
